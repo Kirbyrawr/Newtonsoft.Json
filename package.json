@@ -1,0 +1,24 @@
+{
+  "name": "com.kirbyrawr.newtonsoft.json",
+  "version": "12.0.0",
+  "displayName": "Newtonsoft.Json",
+  "description": "This is a package that contains the 'Newtonsoft.Json' libraries compiled to use in Unity.\nThe code credits go to the original authors of 'Newtonsoft.Json'.",
+  "unity": "2019.1",
+  "unityRelease": "1f1",
+  "keywords": [
+    "newtonsoft",
+    "json",
+    "dlls",
+    "compiled"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kirbyrawr/Newtonsoft.Json.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Kirbyrawr",
+    "email": "devkirbyrawr@gmail.com"
+  },
+  "type": "library"
+}
